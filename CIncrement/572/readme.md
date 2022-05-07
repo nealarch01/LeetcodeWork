@@ -1,5 +1,4 @@
-## Subtree of another tree
-
+# Subtree of another tree
 https://leetcode.com/problems/subtree-of-another-tree/
 
 ## How it works:
